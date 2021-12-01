@@ -1,0 +1,8 @@
+* {
+  box-sizing: border-box;
+}
+.counter{
+  font-size:5rem;
+  padding:0;
+  margin:50px 50px;
+}
